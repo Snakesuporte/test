@@ -1,0 +1,380 @@
+{
+    "data": [
+        {
+            "type": "protocolos",
+            "id": "7fb8df2a-bbef-4046-bc3b-10e7db04d713",
+            "attributes": {
+                "nome": "Gastroenterite aguda",
+                "ruleType": null,
+                "ruleIdentifier": null,
+                "ruleRestrictions": null,
+                "templateType": "mixed",
+                "ads": {
+                    "extra": {
+                        "about": "Esse modelo de protocolo clínico foi elaborado de acordo com as orientações fornecidas pela Sociedade Brasileira de Pediatria e no Manejo do Paciente com Diarreia do Ministério da Saúde em (https://bvsms.saude.gov.br/bvs/cartazes/manejo_paciente_diarreia_cartaz.pdf).\nPara esclarecer qualquer dúvida, entre em contato com nosso time de CX.",
+                        "endDate": "2024-06-15",
+                        "highlight": "Destaque",
+                        "specialties": [
+                            {
+                                "id": "all",
+                                "name": "Todas as especialidades"
+                            }
+                        ],
+                        "startDate": "2024-05-13",
+                        "tagline": "Oferecido por Memed"
+                    }
+                },
+                "extends": {
+                    "about": "Esse modelo de protocolo clínico foi elaborado de acordo com as orientações fornecidas pela Sociedade Brasileira de Pediatria e no Manejo do Paciente com Diarreia do Ministério da Saúde em (https://bvsms.saude.gov.br/bvs/cartazes/manejo_paciente_diarreia_cartaz.pdf).\nPara esclarecer qualquer dúvida, entre em contato com nosso time de CX.",
+                    "endDate": "2024-06-15",
+                    "highlight": "Destaque",
+                    "specialties": [
+                        {
+                            "id": "all",
+                            "name": "Todas as especialidades"
+                        }
+                    ],
+                    "startDate": "2024-05-13",
+                    "tagline": "Oferecido por Memed"
+                },
+                "owner": {
+                    "name": "user",
+                    "thumbnail": null
+                },
+                "medicamentos": [
+                    {
+                        "id": "e654",
+                        "nome": "Exame parasitológico de fezes - Primeira amostra",
+                        "descricao": "",
+                        "tipo": "exame",
+                        "posologia": "",
+                        "sanitized_posology": "",
+                        "quantidade": null,
+                        "unit": "",
+                        "formas_fisicas_unidades_id": null,
+                        "form_units": null,
+                        "fabricante": null,
+                        "preco": null,
+                        "titularidade": "",
+                        "controle_especial": false,
+                        "alto_custo": false,
+                        "receituario": "Simples",
+                        "exames_sus_codigo": "0202040089",
+                        "exames_tuss_codigo": "40303110",
+                        "tipo_exame_selecionado": "tuss",
+                        "composicao": null,
+                        "subgrupo_nome": "Coprologia",
+                        "custom_category": null,
+                        "tarja": null,
+                        "sinonimos": "EPF; Elementos anormais nas fezes; PPF; Coprológico",
+                        "status": "Ativo"
+                    },
+                    {
+                        "id": "e2022",
+                        "nome": "Cultura de fezes (Salmonella/Shigella/Escherichia coli)",
+                        "descricao": "",
+                        "tipo": "exame",
+                        "posologia": "",
+                        "sanitized_posology": "",
+                        "quantidade": null,
+                        "unit": "",
+                        "formas_fisicas_unidades_id": null,
+                        "form_units": null,
+                        "fabricante": null,
+                        "preco": null,
+                        "titularidade": "",
+                        "controle_especial": false,
+                        "alto_custo": false,
+                        "receituario": "Simples",
+                        "exames_sus_codigo": null,
+                        "exames_tuss_codigo": "40310183",
+                        "tipo_exame_selecionado": "tuss",
+                        "composicao": null,
+                        "subgrupo_nome": "Microbiologia",
+                        "custom_category": null,
+                        "tarja": null,
+                        "sinonimos": "Coprocultura",
+                        "status": "Ativo"
+                    },
+                    {
+                        "id": "w41744",
+                        "nome": "Glicose 0 + Zinco 0 + Sódio 0 + Cloreto 0 + Potássio 0 + Citrato 0, Sais de Reidratação Oral",
+                        "descricao": "Glicose 0 + Zinco 0 + Sódio 0 + Cloreto 0 + Potássio 0 + Citrato 0",
+                        "tipo": "white-label",
+                        "posologia": "Diluir o conteúdo do envelope em 1 litro de água e ingerir o líquido, via oral.",
+                        "sanitized_posology": "Diluir o conteúdo do envelope em 1 litro de água e ingerir o líquido, via oral.",
+                        "quantidade": null,
+                        "unit": "",
+                        "formas_fisicas_unidades_id": null,
+                        "form_units": null,
+                        "fabricante": "",
+                        "preco": null,
+                        "titularidade": "—",
+                        "controle_especial": false,
+                        "alto_custo": false,
+                        "receituario": "Simples",
+                        "exames_sus_codigo": "",
+                        "exames_tuss_codigo": "",
+                        "tipo_exame_selecionado": "none",
+                        "composicao": null,
+                        "subgrupo_nome": null,
+                        "custom_category": null,
+                        "tarja": "Livre",
+                        "sinonimos": null,
+                        "status": "Ativo"
+                    },
+                    {
+                        "id": "w39725",
+                        "nome": "Sulfato de zinco 4mg/mL, Xarope",
+                        "descricao": "Sulfato de zinco 4mg/mL",
+                        "tipo": "white-label",
+                        "posologia": "Tomar 5 ml, via oral, 1 vez ao dia, no intervalo entre as refeições, por 10 a 14 dias.",
+                        "sanitized_posology": "Tomar 5 ml, via oral, 1 vez ao dia, no intervalo entre as refeições, por 10 a 14 dias.",
+                        "quantidade": null,
+                        "unit": "",
+                        "formas_fisicas_unidades_id": null,
+                        "form_units": [
+                            {
+                                "id": 195,
+                                "singular": "Frasco",
+                                "plural": "Frascos",
+                                "type": "formas-fisicas-unidades"
+                            }
+                        ],
+                        "fabricante": "",
+                        "preco": null,
+                        "titularidade": "—",
+                        "controle_especial": false,
+                        "alto_custo": false,
+                        "receituario": "Simples",
+                        "exames_sus_codigo": "",
+                        "exames_tuss_codigo": "",
+                        "tipo_exame_selecionado": "none",
+                        "composicao": null,
+                        "subgrupo_nome": null,
+                        "custom_category": null,
+                        "tarja": "Vermelho",
+                        "sinonimos": null,
+                        "status": "Ativo"
+                    },
+                    {
+                        "id": "c29381513",
+                        "nome": "Orientações gerais",
+                        "descricao": null,
+                        "tipo": "custom",
+                        "posologia": "- Deve-se <b>manter a hidratação oral</b>, principalmente a cada episódio de diarreia. Recomenda-se também manter a alimentação habitual.<br><br>- No caso de aparecimento de <b>sinais de alerta</b>, retornar ao pronto-atendimento.",
+                        "sanitized_posology": "- Deve-se <b>manter a hidratação oral</b>, principalmente a cada episódio de diarreia. Recomenda-se também manter a alimentação habitual.<br><br>- No caso de aparecimento de <b>sinais de alerta</b>, retornar ao pronto-atendimento.",
+                        "quantidade": 0,
+                        "unit": "",
+                        "formas_fisicas_unidades_id": null,
+                        "form_units": null,
+                        "fabricante": null,
+                        "preco": null,
+                        "titularidade": null,
+                        "controle_especial": null,
+                        "alto_custo": null,
+                        "receituario": null,
+                        "exames_sus_codigo": "",
+                        "exames_tuss_codigo": "",
+                        "tipo_exame_selecionado": "none",
+                        "composicao": null,
+                        "subgrupo_nome": null,
+                        "custom_category": "custom",
+                        "tarja": null,
+                        "sinonimos": null,
+                        "status": "Ativo"
+                    },
+                    {
+                        "id": "c29381514",
+                        "nome": "Sinais de alerta",
+                        "descricao": null,
+                        "tipo": "custom",
+                        "posologia": "- Não melhora dos sintomas em 2 dias;<br>- Aumento da frequência e/ou do volume da diarreia;<br>- Vômitos repetidos;<br>- Sangue nas fezes;<br>- Diminuição da diurese;<br>- Sede excessiva;<br>- Recusa de alimentos.",
+                        "sanitized_posology": "- Não melhora dos sintomas em 2 dias;<br>- Aumento da frequência e/ou do volume da diarreia;<br>- Vômitos repetidos;<br>- Sangue nas fezes;<br>- Diminuição da diurese;<br>- Sede excessiva;<br>- Recusa de alimentos.",
+                        "quantidade": 0,
+                        "unit": "",
+                        "formas_fisicas_unidades_id": null,
+                        "form_units": null,
+                        "fabricante": null,
+                        "preco": null,
+                        "titularidade": null,
+                        "controle_especial": null,
+                        "alto_custo": null,
+                        "receituario": null,
+                        "exames_sus_codigo": "",
+                        "exames_tuss_codigo": "",
+                        "tipo_exame_selecionado": "none",
+                        "composicao": null,
+                        "subgrupo_nome": null,
+                        "custom_category": "custom",
+                        "tarja": null,
+                        "sinonimos": null,
+                        "status": "Ativo"
+                    }
+                ],
+                "ownerType": "advertisement"
+            }
+        },
+        {
+            "type": "protocolos",
+            "id": "6f153579-69a7-41a9-bb03-d1c1441af41a",
+            "attributes": {
+                "nome": "Hepatite A",
+                "ruleType": null,
+                "ruleIdentifier": null,
+                "ruleRestrictions": null,
+                "templateType": "mixed",
+                "ads": {
+                    "extra": {
+                        "about": "Esse modelo de protocolo clínico foi elaborado de acordo com as orientações fornecidas pela Organização Mundial da Saúde e Secretaria de Vigilância em Saúde em (https://www.who.int/news-room/fact-sheets/detail/hepatitis-a | https://bvsms.saude.gov.br/bvs/publicacoes/07_0044_M2.pdf).\nPara esclarecer qualquer dúvida, entre em contato com nosso time de CX.",
+                        "endDate": "2024-06-15",
+                        "highlight": "Destaque",
+                        "specialties": [
+                            {
+                                "id": "all",
+                                "name": "Todas as especialidades"
+                            }
+                        ],
+                        "startDate": "2024-05-13",
+                        "tagline": "Oferecido por Memed"
+                    }
+                },
+                "extends": {
+                    "about": "Esse modelo de protocolo clínico foi elaborado de acordo com as orientações fornecidas pela Organização Mundial da Saúde e Secretaria de Vigilância em Saúde em (https://www.who.int/news-room/fact-sheets/detail/hepatitis-a | https://bvsms.saude.gov.br/bvs/publicacoes/07_0044_M2.pdf).\nPara esclarecer qualquer dúvida, entre em contato com nosso time de CX.",
+                    "endDate": "2024-06-15",
+                    "highlight": "Destaque",
+                    "specialties": [
+                        {
+                            "id": "all",
+                            "name": "Todas as especialidades"
+                        }
+                    ],
+                    "startDate": "2024-05-13",
+                    "tagline": "Oferecido por Memed"
+                },
+                "owner": {
+                    "name": "user",
+                    "thumbnail": null
+                },
+                "medicamentos": [
+                    {
+                        "id": "e2618",
+                        "nome": "Anticorpos anti-HAV - IgM",
+                        "descricao": "",
+                        "tipo": "exame",
+                        "posologia": "",
+                        "sanitized_posology": "",
+                        "quantidade": null,
+                        "unit": "",
+                        "formas_fisicas_unidades_id": null,
+                        "form_units": null,
+                        "fabricante": null,
+                        "preco": null,
+                        "titularidade": "",
+                        "controle_especial": false,
+                        "alto_custo": false,
+                        "receituario": "Simples",
+                        "exames_sus_codigo": "0202030911",
+                        "exames_tuss_codigo": "40306941",
+                        "tipo_exame_selecionado": "tuss",
+                        "composicao": null,
+                        "subgrupo_nome": "Imunologia",
+                        "custom_category": null,
+                        "tarja": null,
+                        "sinonimos": "Hepatite A - anti-HAV IgM",
+                        "status": "Ativo"
+                    },
+                    {
+                        "id": "w41744",
+                        "nome": "Glicose 0 + Zinco 0 + Sódio 0 + Cloreto 0 + Potássio 0 + Citrato 0, Sais de Reidratação Oral",
+                        "descricao": "Glicose 0 + Zinco 0 + Sódio 0 + Cloreto 0 + Potássio 0 + Citrato 0",
+                        "tipo": "white-label",
+                        "posologia": "Diluir o conteúdo do envelope em 1 litro de água e ingerir o líquido, via oral.",
+                        "sanitized_posology": "Diluir o conteúdo do envelope em 1 litro de água e ingerir o líquido, via oral.",
+                        "quantidade": null,
+                        "unit": "",
+                        "formas_fisicas_unidades_id": null,
+                        "form_units": null,
+                        "fabricante": "",
+                        "preco": null,
+                        "titularidade": "—",
+                        "controle_especial": false,
+                        "alto_custo": false,
+                        "receituario": "Simples",
+                        "exames_sus_codigo": "",
+                        "exames_tuss_codigo": "",
+                        "tipo_exame_selecionado": "none",
+                        "composicao": null,
+                        "subgrupo_nome": null,
+                        "custom_category": null,
+                        "tarja": "Livre",
+                        "sinonimos": null,
+                        "status": "Ativo"
+                    },
+                    {
+                        "id": "w9614",
+                        "nome": "Dipirona 500mg, Comprimido",
+                        "descricao": "Dipirona 500mg",
+                        "tipo": "white-label",
+                        "posologia": "Tomar 1 comprimido, via oral, de 6 em 6 horas, se houver febre. ",
+                        "sanitized_posology": "Tomar 1 comprimido, via oral, de 6 em 6 horas, se houver febre. ",
+                        "quantidade": null,
+                        "unit": "",
+                        "formas_fisicas_unidades_id": null,
+                        "form_units": [
+                            {
+                                "id": 27,
+                                "singular": "Comprimido",
+                                "plural": "Comprimidos",
+                                "type": "formas-fisicas-unidades"
+                            }
+                        ],
+                        "fabricante": "",
+                        "preco": null,
+                        "titularidade": "—",
+                        "controle_especial": false,
+                        "alto_custo": false,
+                        "receituario": "Simples",
+                        "exames_sus_codigo": "",
+                        "exames_tuss_codigo": "",
+                        "tipo_exame_selecionado": "none",
+                        "composicao": null,
+                        "subgrupo_nome": null,
+                        "custom_category": null,
+                        "tarja": "Livre",
+                        "sinonimos": null,
+                        "status": "Ativo"
+                    },
+                    {
+                        "id": "c29381549",
+                        "nome": "Orientações",
+                        "descricao": null,
+                        "tipo": "custom",
+                        "posologia": "- <b>Tomar muito líquido:</b> água, suco de frutas, soro caseiro, sopas, leite, chá e água de coco.<br><br>- Permanecer em <b>repouso</b>.<br><br>- <b>Restringir o consumo de álcool </b> por 6 meses.<br><br>- <b>Procurar um profissional médico ou farmacêutico antes de se automedicar.</b><br><br>- Evitar medicamentos que contenham <b>paracetamol </b>.",
+                        "sanitized_posology": "- <b>Tomar muito líquido:</b> água, suco de frutas, soro caseiro, sopas, leite, chá e água de coco.<br><br>- Permanecer em <b>repouso</b>.<br><br>- <b>Restringir o consumo de álcool </b> por 6 meses.<br><br>- <b>Procurar um profissional médico ou farmacêutico antes de se automedicar.</b><br><br>- Evitar medicamentos que contenham <b>paracetamol </b>.",
+                        "quantidade": 0,
+                        "unit": "",
+                        "formas_fisicas_unidades_id": null,
+                        "form_units": null,
+                        "fabricante": null,
+                        "preco": null,
+                        "titularidade": null,
+                        "controle_especial": null,
+                        "alto_custo": null,
+                        "receituario": null,
+                        "exames_sus_codigo": "",
+                        "exames_tuss_codigo": "",
+                        "tipo_exame_selecionado": "none",
+                        "composicao": null,
+                        "subgrupo_nome": null,
+                        "custom_category": "custom",
+                        "tarja": null,
+                        "sinonimos": null,
+                        "status": "Ativo"
+                    }
+                ],
+                "ownerType": "advertisement"
+            }
+        }
+    ]
+}
